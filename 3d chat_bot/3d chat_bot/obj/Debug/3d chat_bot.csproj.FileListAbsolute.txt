@@ -1,0 +1,17 @@
+D:\C++ project bot\3d chat_bot\3d chat_bot\bin\Debug\3d chat_bot.exe.config
+D:\C++ project bot\3d chat_bot\3d chat_bot\bin\Debug\3d chat_bot.exe
+D:\C++ project bot\3d chat_bot\3d chat_bot\bin\Debug\3d chat_bot.pdb
+D:\C++ project bot\3d chat_bot\3d chat_bot\bin\Debug\Interop.ACTIVEHAPTEKXLib.dll
+D:\C++ project bot\3d chat_bot\3d chat_bot\bin\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\3d chat_bot.csprojAssemblyReference.cache
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\Interop.ACTIVEHAPTEKXLib.dll
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\AxInterop.ACTIVEHAPTEKXLib.dll
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\3d chat_bot.csproj.ResolveComReference.cache
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\_3d_chat_bot.Form1.resources
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\_3d_chat_bot.Properties.Resources.resources
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\3d chat_bot.csproj.GenerateResource.cache
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\3d chat_bot.csproj.CoreCompileInputs.cache
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\3d chat_bot.exe
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\3d chat_bot.pdb
+D:\C++ project bot\3d chat_bot\3d chat_bot\bin\Debug\AIMLBot.dll
+D:\C++ project bot\3d chat_bot\3d chat_bot\obj\Debug\3d chat_bot.csproj.CopyComplete
